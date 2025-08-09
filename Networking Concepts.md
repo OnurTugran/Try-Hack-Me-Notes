@@ -69,12 +69,15 @@ Aşağıda OSI modelinin katmanları ve her katmanın kısa açıklaması ile ö
 
 ### Private ve Public IP Adresleri  
 
-| Tür             | Aralıklar                            | Kullanım Amacı                          |
-|-----------------|------------------------------------|---------------------------------------|
-| Private IP       | 10.0.0.0 – 10.255.255.255          | Yerel ağlarda kullanılır (örneğin ev ağı) |
-|                 | 172.16.0.0 – 172.31.255.255        |                                       |
-|                 | 192.168.0.0 – 192.168.255.255      |                                       |
-| Public IP        | Diğer tüm IP adresleri              | İnternet üzerinde cihazları tanımlar  |
+### Private ve Public IP Adresleri  
+
+| Tür        | Aralıklar                      | Kullanım Amacı                  |
+|------------|-------------------------------|--------------------------------|
+| Private IP | 10.0.0.0 – 10.255.255.255     | Yerel ağlarda kullanılır       |
+| Private IP | 172.16.0.0 – 172.31.255.255   | Yerel ağlarda kullanılır       |
+| Private IP | 192.168.0.0 – 192.168.255.255 | Yerel ağlarda kullanılır       |
+| Public IP  | Diğer tüm IP adresleri         | İnternet üzerinde cihazları tanımlar |
+
 
 ---
 
